@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "yagizz",
+      "password": "$2b$10$DbTZWpi3iUmGKZi70vNZsehUmJrrI9UsCcKrptcH0PXpZ9o7F5JZm"
+    },
+    {
+      "id": 3,
+      "username": "deneme5",
+      "password": "$2b$10$72NIHhM3m/j20G6x6vRBFe3OgCTWw6/CtMnrCVBclAXFySOil6VNG"
+    },
+    {
+      "id": 4,
+      "username": "elon",
+      "password": "$2b$10$ovu4a1IdZmfTcXYl5eyDg.sItqZqabaakIADOYh1qLUloVkltyTVO"
+    },
+    {
+      "id": 5,
+      "username": "tayyip",
+      "password": "$2b$10$ffwm36uQerE/O1jLDWBqLekXh.s4Umd/Cg/tN7wvdSB4lpF1JjUwK"
+    },
+    {
+      "id": 6,
+      "username": "yagizRahat",
+      "password": "$2b$10$Q5aoN3YhtLcZaRkApbUmDObctVfsMIwhaljnuEgMKeKJI7OLHRB7i"
+    }
+  ]
+}
