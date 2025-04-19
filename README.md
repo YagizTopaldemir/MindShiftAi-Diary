@@ -43,7 +43,7 @@ node server.js
 
 
 
-
+## 
 💡 How It Works
 You write a diary entry.
 
